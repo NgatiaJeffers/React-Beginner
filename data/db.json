@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Sanity Studio",
+      "body": "Sanity is how we can manage our structured content. Whether our application is a blog, a portfolio, or the next spaceship data cloud, we need all of our content to be handled in an organized and simple way. With Sanity, we can manage our content’s title, image, body text, etc. Anything content, Sanity can help manage.\n\nSanity can manage the content for many different use cases. For example, an e-commerce site has products, prices for each product, and a description of the product. Sanity can hold all that information",
+      "author": "dave",
+      "id": 5
+    },
+    {
+      "title": "Powered by Sanity",
+      "body": "Not only do we get the power of Sanity but we also get Sanity Studio. Sanity Studio is an interface where we can view our content. The studio allows for image editing, the editing of fields, and can be used by developers and non-developers! All of this can be viewed in a nicely laid out UI/UX. In this tutorial, we will use Sanity Studio.\n\nTo learn more about the Sanity Studio, we can find the docs here.",
+      "author": "dave",
+      "id": 6
+    },
+    {
+      "title": "React Js",
+      "body": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.\n\nDeclarative views make your code more predictable and easier to debug.",
+      "author": "rachel",
+      "id": 7
+    }
+  ]
+}
