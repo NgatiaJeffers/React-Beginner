@@ -17,6 +17,12 @@
       "body": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.\n\nDeclarative views make your code more predictable and easier to debug.",
       "author": "rachel",
       "id": 7
+    },
+    {
+      "title": "Introduction Node JS",
+      "body": "Node.js is a JavaScript runtime for server-side programming. It allows developers to create scalable backend functionality using JavaScript, a language many are already familiar with from browser-based web development.",
+      "author": "dave",
+      "id": 8
     }
   ]
 }
